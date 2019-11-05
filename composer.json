@@ -11,5 +11,8 @@
             "email": "seekvisum@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-4": {"SeeKing\\": "src/"}
+    },
     "minimum-stability": "stable"
 }

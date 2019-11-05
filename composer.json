@@ -1,0 +1,15 @@
+{
+    "name": "see-king/index",
+    "description": "Simplistic PHP class to render html template with routed og: tags and title",
+    "type": "project",
+    "require": {
+        "php": "^7.1"
+    },
+    "authors": [
+        {
+            "name": "Alex Kogan",
+            "email": "seekvisum@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}

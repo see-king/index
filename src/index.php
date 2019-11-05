@@ -187,7 +187,7 @@ namespace SeeKing;
                         $image = @$item[$key] ?: $this->defaultTags[$key];
 
                         // if image path contains http it's an absolute path and doesn't need prefixes
-                        $imagePrefix = (strpos( $image, 'http') === false) ? image_root : "" ; 
+                        $imagePrefix = (strpos( $image, 'http') === false) ? $this->image_root : "" ; 
                         
                         $tags[$key] = $imagePrefix . $image;
                         break;                        

@@ -1,5 +1,5 @@
 <?php
-namespace SESEd;
+namespace SeeKing;
 
 /**
  * 

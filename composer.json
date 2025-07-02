@@ -3,7 +3,7 @@
     "description": "Simplistic PHP class to render html template with routed og: tags and title",
     "type": "project",
     "require": {
-        "php": "^7.1"
+        "php": ">=7.1"
     },
     "authors": [
         {
